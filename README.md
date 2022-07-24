@@ -76,3 +76,15 @@ Click [here](https://public.tableau.com/app/profile/sholahaha/viz/CitiBikeUserBi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Analysis
+
+The dataset provides an insight to the Citi Bike service prior to the pandemic, during the lockdown and once lockdown restrictions began to ease, and therefore I decided to use data from June 2019 - June 2020. 
+
+Start stations and end stations are visually mapped using geographical latitude and longitude data with additional markers to display the frequently of these stations by users, it was noticeably clear start stations are located in and around Jersey, whereas end stations are pinpointed in and around New York as well as Jersey. 
+
+Due to lockdown the usage of Citi Bikes decreased as people were working from home, and abiding to lockdown restrictions. However, the most popular station Grove St. Path fell from first place as behaviour patterns changed we notice a higher usage of start and end stations closer to green spaces and parks. This provides an interesting insight to user behaviour patters during the pandemic which could suggest more people were looking to explore open spaces, rather than be in public spaces since lockdown restrictions would not permit them to do so. 
+
+When we turn our attention to different user types and service popularity, as it is fascinating to observe the most popular month was September 2019 and not to our surprise, April 2020 was the least popular month. Clearly, the pandemic was the reason why April was the least popular month but the data shows a gradual increase in usage especially towards the end of June 2020. In fact, we can see an increase in “Unknown” users toward the end of lockdown, by default these visualisations compare data from the previous year (June ‘19) as “Unknown” users more than doubled their usage. Female users increased their usage in comparison to the previous year, which decreased how much Males equate for in the data. Even with this observation, Males account for at least half of data and are the gender that use the service the most. 
+
+Lastly, I performed analysis on age range to see if the pandemic significantly impacted the age of users. Fascinatingly, there doesn’t seem to be any significant impact in this area of analysis. Overall, the service tends to most popular with customers born in 1969 and subscribers born in 1989. The only thing to draw from this, on average there is a 20 year age gap between the most frequently used age groups. 
+
+To conclude, the pandemic clearly had a significant impact on the Citi Bike service, the user type variance, bike hire frequency and station popularity.
